@@ -1,4 +1,4 @@
-#main: hw1_jnaky4.c
+#main: DLL.c
 	#gcc -o main hw1_jnaky4.c
 
 
